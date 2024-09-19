@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ferdypruis/iso3166"
+	"github.com/trojanc/iso3166"
 )
 
 func TestCountry_Name(t *testing.T) {
