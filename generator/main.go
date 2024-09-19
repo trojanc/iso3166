@@ -1,5 +1,4 @@
 // Generate data structures based on the CSV available at https://github.com/datasets/country-codes
-// +build ignore
 
 package main
 

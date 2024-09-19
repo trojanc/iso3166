@@ -1,3 +1,3 @@
-module github.com/ferdypruis/iso3166
+module github.com/trojanc/iso3166
 
 go 1.13
